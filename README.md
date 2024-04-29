@@ -1,11 +1,11 @@
 ------------------------
 Rock-Paper-Scissors Game
-------------------------
-
+=========================
 This project is a simple implementation of the classic Rock-Paper-Scissors game using HTML, CSS, and JavaScript. In this game, the player competes against the computer in a series of rounds. The first player to reach a score of 3 wins the game.
 
 Game Logic:
-===========
+-----------
+
 - Each round, the player selects one of three options: Rock,    Scissors, or Paper.
 
 - The computer randomly selects one of the three options as   well.
@@ -22,14 +22,14 @@ Game Logic:
 - The player with 3 points first wins the game.
 
 Features:
-=========
+-----------
 - Simple and intuitive user interface.
 - Visual feedback for player and computer choices.
 - Real-time scoring display to track progress.
 - End-game message displaying the winner of the game.
 
 How to Play:
-=============
+-------------
 1) Choose your move by clicking on the corresponding button     (Rock, Scissors, or Paper).
 
 2) The computer will randomly select its move.
