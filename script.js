@@ -78,8 +78,8 @@ function resetGame() {
     playerPoints.innerHTML = "0";
 
     // Reset images
-    computerImage.src = "./assets/images/rockComputer.png";
-    playerImage.src = "./assets/images/rockPlayer.png";
+    computerImage.src = "./assets/images/ROCKComputer.png";
+    playerImage.src = "./assets/images/ROCKPlayer.png";
 
     //Reset Message 
     message.classList.remove("winner_message");
